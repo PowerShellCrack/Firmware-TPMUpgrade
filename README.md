@@ -7,3 +7,8 @@
 ## Resources:
  - https://www.dell.com/support/article/us/en/19/sln312544/how-to-change-tpm-modes-12-20?lang=en
  - https://support.hp.com/us-en/document/c05381064
+ 
+### Originators/Credit
+
+* [@AdmiralTolwyn](https://github.com/AdmiralTolwyn) (Anton Romanyuk)
+* [@NickolajA](https://github.com/NickolajA) (Nickolaj Andersen)
