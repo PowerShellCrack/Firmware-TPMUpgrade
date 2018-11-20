@@ -1,0 +1,25 @@
+Dell Edge Gateway 5000
+Dell Edge Gateway 5000 OEM Ready
+Dell Edge Gateway 5100
+Dell Edge Gateway 5100 OEM Ready
+Dell Precision Tower 3420
+Dell Precision Tower 3620
+Dell Precision Tower T5810/5810XL *
+Dell Precision Tower T7810 *
+Dell Precision Tower T7910 *
+Latitude 7370
+Latitude E5270
+Latitude E5470
+Latitude E5570
+Latitude E7270
+Latitude E7470
+OptiPlex 3040
+OptiPlex 3240 All-in-One
+OptiPlex 5040
+OptiPlex 7040
+OptiPlex 7440 AIO
+OptiPlex 5050
+Precision 3510
+Precision 7510
+Precision 7710
+XPS 15 9550
